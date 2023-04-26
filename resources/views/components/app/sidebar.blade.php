@@ -33,7 +33,7 @@
                     </div>
                 </div>
                 <div class="menu-item">
-                    <a class="menu-link" href="../../demo1/dist/index.html">
+                    <a class="menu-link active" href="../../demo1/dist/index.html">
                         <span class="menu-icon">
                             <!--begin::Svg Icon | path: icons/duotune/general/gen025.svg-->
                             <span class="svg-icon svg-icon-2">
@@ -115,7 +115,7 @@
                         <span class="menu-section text-muted text-uppercase fs-8 ls-1">Crafted</span>
                     </div>
                 </div>
-                <div data-kt-menu-trigger="click" class="menu-item here show menu-accordion">
+                <div data-kt-menu-trigger="click" class="menu-item menu-accordion">
                     <span class="menu-link">
                         <span class="menu-icon">
                             <!--begin::Svg Icon | path: icons/duotune/ecommerce/ecm007.svg-->
@@ -320,7 +320,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div data-kt-menu-trigger="click" class="menu-item here show menu-accordion">
+                        <div data-kt-menu-trigger="click" class="menu-item menu-accordion">
                             <span class="menu-link">
                                 <span class="menu-bullet">
                                     <span class="bullet bullet-dot"></span>
@@ -330,7 +330,7 @@
                             </span>
                             <div class="menu-sub menu-sub-accordion menu-active-bg">
                                 <div class="menu-item">
-                                    <a class="menu-link active" href="../../demo1/dist/pages/blog/home.html">
+                                    <a class="menu-link" href="../../demo1/dist/pages/blog/home.html">
                                         <span class="menu-bullet">
                                             <span class="bullet bullet-dot"></span>
                                         </span>

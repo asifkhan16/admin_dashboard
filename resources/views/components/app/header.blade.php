@@ -32,17 +32,17 @@
                     <!--begin::Menu-->
                     <div class="menu menu-lg-rounded menu-column menu-lg-row menu-state-bg menu-title-gray-700 menu-state-title-primary menu-state-icon-primary menu-state-bullet-primary menu-arrow-gray-400 fw-bold my-5 my-lg-0 align-items-stretch" id="#kt_header_menu" data-kt-menu="true">
                         <div class="menu-item me-lg-1">
-                            <a class="menu-link py-3" href="../../demo1/dist/index.html">
+                            <a class="menu-link active py-3" href="../../demo1/dist/index.html">
                                 <span class="menu-title">Dashboard</span>
                             </a>
                         </div>
-                        <div data-kt-menu-trigger="click" data-kt-menu-placement="bottom-start" class="menu-item here show menu-lg-down-accordion me-lg-1">
+                        <div data-kt-menu-trigger="click" data-kt-menu-placement="bottom-start" class="menu-item menu-lg-down-accordion me-lg-1">
                             <span class="menu-link py-3">
                                 <span class="menu-title">Crafted</span>
                                 <span class="menu-arrow d-lg-none"></span>
                             </span>
                             <div class="menu-sub menu-sub-lg-down-accordion menu-sub-lg-dropdown menu-rounded-0 py-lg-4 w-lg-225px">
-                                <div data-kt-menu-trigger="{default:'click', lg: 'hover'}" data-kt-menu-placement="right-start" class="menu-item here show menu-lg-down-accordion">
+                                <div data-kt-menu-trigger="{default:'click', lg: 'hover'}" data-kt-menu-placement="right-start" class="menu-item menu-lg-down-accordion">
                                     <span class="menu-link py-3">
                                         <span class="menu-icon">
                                             <!--begin::Svg Icon | path: icons/duotune/ecommerce/ecm007.svg-->
@@ -247,7 +247,7 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <div data-kt-menu-trigger="{default:'click', lg: 'hover'}" data-kt-menu-placement="right-start" class="menu-item here show menu-lg-down-accordion">
+                                        <div data-kt-menu-trigger="{default:'click', lg: 'hover'}" data-kt-menu-placement="right-start" class="menu-item menu-lg-down-accordion">
                                             <span class="menu-link py-3">
                                                 <span class="menu-bullet">
                                                     <span class="bullet bullet-dot"></span>
@@ -257,7 +257,7 @@
                                             </span>
                                             <div class="menu-sub menu-sub-lg-down-accordion menu-sub-lg-dropdown menu-active-bg py-lg-4 w-lg-225px">
                                                 <div class="menu-item">
-                                                    <a class="menu-link active py-3" href="../../demo1/dist/pages/blog/home.html">
+                                                    <a class="menu-link py-3" href="../../demo1/dist/pages/blog/home.html">
                                                         <span class="menu-bullet">
                                                             <span class="bullet bullet-dot"></span>
                                                         </span>
