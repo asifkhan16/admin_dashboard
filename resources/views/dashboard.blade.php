@@ -3,7 +3,7 @@
         <!--begin::Container-->
         <div id="kt_content_container" class="container-xxl">
             <!--begin::Row-->
-            <div class="row gy-5 g-xl-8">
+            <div class="row gy-5 g-xl-8" id='sortable'>
                 <!--begin::Col-->
                 <div class="col-xxl-4">
                     <!--begin::Mixed Widget 2-->
@@ -475,7 +475,7 @@
             </div>
             <!--end::Row-->
             <!--begin::Row-->
-            <div class="row gy-5 g-xl-8">
+            <div class="row gy-5 g-xl-8" id="sortable2">
                 <!--begin::Col-->
                 <div class="col-xl-4">
                     <!--begin::List Widget 3-->
@@ -1097,7 +1097,7 @@
             </div>
             <!--end::Row-->
             <!--begin::Row-->
-            <div class="row gy-5 g-xl-8">
+            <div class="row gy-5 g-xl-8" id="sortable3">
                 <!--begin::Col-->
                 <div class="col-xl-4">
                     <!--begin::List Widget 2-->
@@ -1702,7 +1702,7 @@
             </div>
             <!--end::Row-->
             <!--begin::Row-->
-            <div class="row g-5 g-xxl-8">
+            <div class="row g-5 g-xxl-8" id="sortable4">
                 <!--begin::Col-->
                 <div class="col-xxl-4">
                     <!--begin::Mixed Widget 5-->
